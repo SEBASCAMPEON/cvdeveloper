@@ -33,7 +33,7 @@ close.forEach(function (close) {
         animaciones.classList.add("animate__animated");
         animaciones.classList.add("animate__fadeOutUp");
         setTimeout(function () {
-            location.href = "/";
+            location.href = "/practicewebcourse";
         }, 1500);
 
     })
